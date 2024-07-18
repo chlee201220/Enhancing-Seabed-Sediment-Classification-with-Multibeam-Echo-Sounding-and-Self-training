@@ -5,8 +5,9 @@ a Energy and resources engineering, Chonnam National University, Gwangju 61186, 
 b Petroleum & Marine Research Division, Korea Institute of Geoscience and Mineral Resources(KIGAM), Daejeon 305-350, South Korea
 c Marine Research Corporation, Busan 49127, Republic of Korea
 
-#content
-- feature_extraction.py
+
+# content
+## feature_extraction.py
 Python code for extracting features based on multibeam backscatter and bathymetry values
-- seabed_classification.py
+## seabed_classification.py
 Python code for improving seabed sediment classification performance using the self-training technique
