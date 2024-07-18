@@ -1,11 +1,11 @@
 # Enhancing Seabed Sediment Classification with Multibeam Echo-Sounding and Self-training
 by ChangHoon Lee<sup>a</sup>, Sujung Park<sup>a</sup>, Daeung Yoon<sup>a*</sup>, Bo-Yeon Yi<sup>b</sup>, and Moonsoo Lim<sup>c</sup>
 
-a Energy and resources engineering, Chonnam National University, Gwangju 61186, Republic of Korea 
+<sup>a</sup> Energy and resources engineering, Chonnam National University, Gwangju 61186, Republic of Korea 
 
-b Petroleum & Marine Research Division, Korea Institute of Geoscience and Mineral Resources(KIGAM), Daejeon 305-350, South Korea
+<sup>b</sup> Petroleum & Marine Research Division, Korea Institute of Geoscience and Mineral Resources(KIGAM), Daejeon 305-350, South Korea
 
-c Marine Research Corporation, Busan 49127, Republic of Korea
+<sup>c</sup> Marine Research Corporation, Busan 49127, Republic of Korea
 
 
 # content
