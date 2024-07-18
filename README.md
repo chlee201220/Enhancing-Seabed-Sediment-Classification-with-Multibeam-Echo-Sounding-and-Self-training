@@ -1,5 +1,9 @@
 # Enhancing Seabed Sediment Classification with Multibeam Echo-Sounding and Self-training
-by ChangHoon Lee<sup>a  , Sujung Park <sup>a , Daeung Yoon <sup>a* , Bo-Yeon Yib , and Moonsoo Limc
+by ChangHoon Lee<sup>a  
+, Sujung Park <sup>a 
+, Daeung Yoon <sup>a* 
+, Bo-Yeon Yib 
+, and Moonsoo Limc
 
 
 a Energy and resources engineering, Chonnam National University, Gwangju 61186, Republic of Korea 
