@@ -8,7 +8,7 @@ by ChangHoon Lee<sup>a</sup>, Sujung Park<sup>a</sup>, Daeung Yoon<sup>a*</sup>,
 <sup>c</sup> Marine Research Corporation, Busan 49127, Republic of Korea
 
 
-Corresponding author: Daeung Yoon, duyoon@gmail.com 
+Corresponding author: Daeung Yoon, email: duyoon@gmail.com 
 
 
 # content
