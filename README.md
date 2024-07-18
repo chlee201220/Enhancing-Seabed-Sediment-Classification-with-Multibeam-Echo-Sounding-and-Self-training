@@ -8,6 +8,9 @@ by ChangHoon Lee<sup>a</sup>, Sujung Park<sup>a</sup>, Daeung Yoon<sup>a*</sup>,
 <sup>c</sup> Marine Research Corporation, Busan 49127, Republic of Korea
 
 
+Corresponding author: Daeung Yoon, 이메일
+
+
 # content
 ### feature_extraction.py
 Python code for extracting features based on multibeam backscatter and bathymetry values
